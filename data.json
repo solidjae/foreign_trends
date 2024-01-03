@@ -1,0 +1,1629 @@
+{
+    "search_metadata": {
+        "id": "659500962c6878f9485b7bb6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/27e8d1bc11d38978/659500962c6878f9485b7bb6.json",
+        "created_at": "2024-01-03 06:37:10 UTC",
+        "processed_at": "2024-01-03 06:37:10 UTC",
+        "google_trends_url": "https://trends.google.com/trends/api/explore?tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22%E3%83%87%E3%82%B9%E3%82%AF%22%2C%22geo%22%3A%22JP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22%E3%83%81%E3%82%A7%E3%82%A2%E3%83%BC%22%2C%22geo%22%3A%22JP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%22%2C%22geo%22%3A%22JP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC%22%2C%22geo%22%3A%22JP%22%2C%22time%22%3A%22today+12-m%22%7D%2C%7B%22keyword%22%3A%22%E6%A3%9A%22%2C%22geo%22%3A%22JP%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A%2218%22%2C%22property%22%3A%22%22%2C%22userConfig%22%3A%22%7BuserType%3A+%5C%22USER_TYPE_LEGIT_USER%5C%22%7D%22%7D",
+        "raw_html_file": "https://serpapi.com/searches/27e8d1bc11d38978/659500962c6878f9485b7bb6.html",
+        "prettify_html_file": "https://serpapi.com/searches/27e8d1bc11d38978/659500962c6878f9485b7bb6.prettify",
+        "total_time_taken": 2.66
+    },
+    "search_parameters": {
+        "engine": "google_trends",
+        "q": "\u30c7\u30b9\u30af,\u30c1\u30a7\u30a2\u30fc,\u30c6\u30fc\u30d6\u30eb,\u30cf\u30f3\u30ac\u30fc,\u68da",
+        "geo": "JP",
+        "cat": "18",
+        "date": "today 12-m",
+        "tz": "420",
+        "data_type": "TIMESERIES"
+    },
+    "interest_over_time": {
+        "timeline_data": [
+            {
+                "date": "Jan 8\u2009\u2013\u200914, 2023",
+                "timestamp": "1673136000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "66",
+                        "extracted_value": 66
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Jan 15\u2009\u2013\u200921, 2023",
+                "timestamp": "1673740800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "62",
+                        "extracted_value": 62
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Jan 22\u2009\u2013\u200928, 2023",
+                "timestamp": "1674345600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "68",
+                        "extracted_value": 68
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Jan 29\u2009\u2013\u2009Feb 4, 2023",
+                "timestamp": "1674950400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "68",
+                        "extracted_value": 68
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Feb 5\u2009\u2013\u200911, 2023",
+                "timestamp": "1675555200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "29",
+                        "extracted_value": 29
+                    }
+                ]
+            },
+            {
+                "date": "Feb 12\u2009\u2013\u200918, 2023",
+                "timestamp": "1676160000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "65",
+                        "extracted_value": 65
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "38",
+                        "extracted_value": 38
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Feb 19\u2009\u2013\u200925, 2023",
+                "timestamp": "1676764800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "Feb 26\u2009\u2013\u2009Mar 4, 2023",
+                "timestamp": "1677369600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "Mar 5\u2009\u2013\u200911, 2023",
+                "timestamp": "1677974400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "36",
+                        "extracted_value": 36
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Mar 12\u2009\u2013\u200918, 2023",
+                "timestamp": "1678579200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Mar 19\u2009\u2013\u200925, 2023",
+                "timestamp": "1679184000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "27",
+                        "extracted_value": 27
+                    }
+                ]
+            },
+            {
+                "date": "Mar 26\u2009\u2013\u2009Apr 1, 2023",
+                "timestamp": "1679788800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "34",
+                        "extracted_value": 34
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "Apr 2\u2009\u2013\u20098, 2023",
+                "timestamp": "1680393600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "61",
+                        "extracted_value": 61
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Apr 9\u2009\u2013\u200915, 2023",
+                "timestamp": "1680998400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "51",
+                        "extracted_value": 51
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "Apr 16\u2009\u2013\u200922, 2023",
+                "timestamp": "1681603200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "62",
+                        "extracted_value": 62
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "Apr 23\u2009\u2013\u200929, 2023",
+                "timestamp": "1682208000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "61",
+                        "extracted_value": 61
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Apr 30\u2009\u2013\u2009May 6, 2023",
+                "timestamp": "1682812800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "18",
+                        "extracted_value": 18
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "67",
+                        "extracted_value": 67
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "24",
+                        "extracted_value": 24
+                    }
+                ]
+            },
+            {
+                "date": "May 7\u2009\u2013\u200913, 2023",
+                "timestamp": "1683417600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "60",
+                        "extracted_value": 60
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "May 14\u2009\u2013\u200920, 2023",
+                "timestamp": "1684022400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "61",
+                        "extracted_value": 61
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "May 21\u2009\u2013\u200927, 2023",
+                "timestamp": "1684627200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "62",
+                        "extracted_value": 62
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "26",
+                        "extracted_value": 26
+                    }
+                ]
+            },
+            {
+                "date": "May 28\u2009\u2013\u2009Jun 3, 2023",
+                "timestamp": "1685232000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "16",
+                        "extracted_value": 16
+                    }
+                ]
+            },
+            {
+                "date": "Jun 4\u2009\u2013\u200910, 2023",
+                "timestamp": "1685836800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "67",
+                        "extracted_value": 67
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Jun 11\u2009\u2013\u200917, 2023",
+                "timestamp": "1686441600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Jun 18\u2009\u2013\u200924, 2023",
+                "timestamp": "1687046400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "63",
+                        "extracted_value": 63
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Jun 25\u2009\u2013\u2009Jul 1, 2023",
+                "timestamp": "1687651200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "70",
+                        "extracted_value": 70
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Jul 2\u2009\u2013\u20098, 2023",
+                "timestamp": "1688256000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "<1",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "71",
+                        "extracted_value": 71
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Jul 9\u2009\u2013\u200915, 2023",
+                "timestamp": "1688860800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "75",
+                        "extracted_value": 75
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "21",
+                        "extracted_value": 21
+                    }
+                ]
+            },
+            {
+                "date": "Jul 16\u2009\u2013\u200922, 2023",
+                "timestamp": "1689465600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "22",
+                        "extracted_value": 22
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "68",
+                        "extracted_value": 68
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Jul 23\u2009\u2013\u200929, 2023",
+                "timestamp": "1690070400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Jul 30\u2009\u2013\u2009Aug 5, 2023",
+                "timestamp": "1690675200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "18",
+                        "extracted_value": 18
+                    }
+                ]
+            },
+            {
+                "date": "Aug 6\u2009\u2013\u200912, 2023",
+                "timestamp": "1691280000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "56",
+                        "extracted_value": 56
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Aug 13\u2009\u2013\u200919, 2023",
+                "timestamp": "1691884800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "19",
+                        "extracted_value": 19
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "58",
+                        "extracted_value": 58
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Aug 20\u2009\u2013\u200926, 2023",
+                "timestamp": "1692489600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "100",
+                        "extracted_value": 100
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "23",
+                        "extracted_value": 23
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Aug 27\u2009\u2013\u2009Sep 2, 2023",
+                "timestamp": "1693094400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "67",
+                        "extracted_value": 67
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "21",
+                        "extracted_value": 21
+                    }
+                ]
+            },
+            {
+                "date": "Sep 3\u2009\u2013\u20099, 2023",
+                "timestamp": "1693699200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "59",
+                        "extracted_value": 59
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "20",
+                        "extracted_value": 20
+                    }
+                ]
+            },
+            {
+                "date": "Sep 10\u2009\u2013\u200916, 2023",
+                "timestamp": "1694304000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "25",
+                        "extracted_value": 25
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Sep 17\u2009\u2013\u200923, 2023",
+                "timestamp": "1694908800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "70",
+                        "extracted_value": 70
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "26",
+                        "extracted_value": 26
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "17",
+                        "extracted_value": 17
+                    }
+                ]
+            },
+            {
+                "date": "Sep 24\u2009\u2013\u200930, 2023",
+                "timestamp": "1695513600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "27",
+                        "extracted_value": 27
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "19",
+                        "extracted_value": 19
+                    }
+                ]
+            },
+            {
+                "date": "Oct 1\u2009\u2013\u20097, 2023",
+                "timestamp": "1696118400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Oct 8\u2009\u2013\u200914, 2023",
+                "timestamp": "1696723200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "57",
+                        "extracted_value": 57
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "39",
+                        "extracted_value": 39
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "22",
+                        "extracted_value": 22
+                    }
+                ]
+            },
+            {
+                "date": "Oct 15\u2009\u2013\u200921, 2023",
+                "timestamp": "1697328000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "54",
+                        "extracted_value": 54
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Oct 22\u2009\u2013\u200928, 2023",
+                "timestamp": "1697932800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "51",
+                        "extracted_value": 51
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "21",
+                        "extracted_value": 21
+                    }
+                ]
+            },
+            {
+                "date": "Oct 29\u2009\u2013\u2009Nov 4, 2023",
+                "timestamp": "1698537600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "24",
+                        "extracted_value": 24
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "55",
+                        "extracted_value": 55
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Nov 5\u2009\u2013\u200911, 2023",
+                "timestamp": "1699142400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "63",
+                        "extracted_value": 63
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "33",
+                        "extracted_value": 33
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Nov 12\u2009\u2013\u200918, 2023",
+                "timestamp": "1699747200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "2",
+                        "extracted_value": 2
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "65",
+                        "extracted_value": 65
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "19",
+                        "extracted_value": 19
+                    }
+                ]
+            },
+            {
+                "date": "Nov 19\u2009\u2013\u200925, 2023",
+                "timestamp": "1700352000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "64",
+                        "extracted_value": 64
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "37",
+                        "extracted_value": 37
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "30",
+                        "extracted_value": 30
+                    }
+                ]
+            },
+            {
+                "date": "Nov 26\u2009\u2013\u2009Dec 2, 2023",
+                "timestamp": "1700956800",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "70",
+                        "extracted_value": 70
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "42",
+                        "extracted_value": 42
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "28",
+                        "extracted_value": 28
+                    }
+                ]
+            },
+            {
+                "date": "Dec 3\u2009\u2013\u20099, 2023",
+                "timestamp": "1701561600",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "31",
+                        "extracted_value": 31
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "82",
+                        "extracted_value": 82
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "35",
+                        "extracted_value": 35
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "23",
+                        "extracted_value": 23
+                    }
+                ]
+            },
+            {
+                "date": "Dec 10\u2009\u2013\u200916, 2023",
+                "timestamp": "1702166400",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "29",
+                        "extracted_value": 29
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "75",
+                        "extracted_value": 75
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Dec 17\u2009\u2013\u200923, 2023",
+                "timestamp": "1702771200",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "0",
+                        "extracted_value": 0
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "78",
+                        "extracted_value": 78
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "28",
+                        "extracted_value": 28
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            },
+            {
+                "date": "Dec 24\u2009\u2013\u200930, 2023",
+                "timestamp": "1703376000",
+                "values": [
+                    {
+                        "query": "\u30c7\u30b9\u30af",
+                        "value": "32",
+                        "extracted_value": 32
+                    },
+                    {
+                        "query": "\u30c1\u30a7\u30a2\u30fc",
+                        "value": "1",
+                        "extracted_value": 1
+                    },
+                    {
+                        "query": "\u30c6\u30fc\u30d6\u30eb",
+                        "value": "65",
+                        "extracted_value": 65
+                    },
+                    {
+                        "query": "\u30cf\u30f3\u30ac\u30fc",
+                        "value": "30",
+                        "extracted_value": 30
+                    },
+                    {
+                        "query": "\u68da",
+                        "value": "25",
+                        "extracted_value": 25
+                    }
+                ]
+            }
+        ],
+        "averages": [
+            {
+                "query": "\u30c7\u30b9\u30af",
+                "value": 28
+            },
+            {
+                "query": "\u30c1\u30a7\u30a2\u30fc",
+                "value": 1
+            },
+            {
+                "query": "\u30c6\u30fc\u30d6\u30eb",
+                "value": 63
+            },
+            {
+                "query": "\u30cf\u30f3\u30ac\u30fc",
+                "value": 31
+            },
+            {
+                "query": "\u68da",
+                "value": 23
+            }
+        ]
+    }
+}
